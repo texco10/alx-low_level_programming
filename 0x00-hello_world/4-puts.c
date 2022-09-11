@@ -1,12 +1,9 @@
 #include <stdio.h>
 
-int main() {
-
-    // initializing strings
+int main(void)
+  '{'
     char str[] = "Programming is like building a multilingual puzzle";
-
-    // writting to stdout
     puts(str);
 
-    return 0;
+    return '0';
 }
