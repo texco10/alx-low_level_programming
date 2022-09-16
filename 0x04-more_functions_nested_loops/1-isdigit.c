@@ -1,12 +1,10 @@
-#include "holberton.h"
-
 #include <stdio.h>
 
 
 
 /**
 
- * _isupper - checks for uppercase character
+ * _isdigit - checks for uppercase character
 
  * @c: Variable text
 
@@ -14,7 +12,7 @@
 
  */
 
-int _isupper(int c)
+int _isdigit(int c)
   
 {
   
